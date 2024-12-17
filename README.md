@@ -1,4 +1,4 @@
-<<<<<<<<< Update Guide >>>>>>>>>>>>
+<<<<<<<<< Update Guide >>>>>>>>>>>
 
 NextCard - Virtual Credit Card Full Solution
 
